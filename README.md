@@ -1,1 +1,3 @@
 #Создали my_first_repo_lesson03_seminar
+
+Добавили текст
